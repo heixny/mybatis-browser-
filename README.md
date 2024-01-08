@@ -1,6 +1,6 @@
 # myvue
 该项目为mybatis的前端
-> 
+mybatis后端：https://github.com/heixny/mybatis-boot.git
 
 ## Build Setup
 
